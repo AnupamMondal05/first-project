@@ -1,3 +1,3 @@
 # first-project
-This is my first Git Repository
-author-Anupam Mondal
+This is my first Git Repository.
+Author-Anupam Mondal
